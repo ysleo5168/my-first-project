@@ -1,2 +1,2 @@
 # my-first-project
-Tis project explores Netflix movie data to find genres trends
+This project explores Netflix movie data to find genres trends
